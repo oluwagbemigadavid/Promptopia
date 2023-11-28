@@ -1,5 +1,5 @@
-// You have to import connectToDB everytime cause it's a lamda function meaning 
-// it's going to die everytime after doing it's job!
+// You have to import connectToDB everytime cause it's a lamda function
+//  meaning it's going to die everytime after doing it's job!
 import { connectToDB } from '@utils/database'
 import Prompt from '@models/prompt'
 
